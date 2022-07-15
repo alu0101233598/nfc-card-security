@@ -7,6 +7,8 @@ This repository contains the code developed for my Final Degree Project.
 - Computer Engineering Degree
 - University of La Laguna 2021/22
 
+### 🖊 [The report is now publicly available!](https://riull.ull.es/xmlui/handle/915/28735)
+
 ## Abstract
 
 In this Final Degree Project, a study of the security status of contactless cards that incorporate an NFC interface has been carried out. This technology is frequently used within organisations as an authentication and control mechanism, limiting the access of personnel to highly sensitive areas. Also cards that incorporate this technology are, for example, some government documents for citizen identification, such as the latest version of the Spanish electronic National Identity Card.
